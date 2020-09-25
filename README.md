@@ -12,4 +12,5 @@ It's not supposed to be helpful, but in case it is... Well, it is.
 
 ### Basic info
 https://github.com/torfsen/python-systemd-tutorial - how to setup basic systemd config
+
 https://en.wikipedia.org/wiki/Runlevel#Linux - Wiki runlevel table
