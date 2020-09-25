@@ -17,3 +17,7 @@ https://en.wikipedia.org/wiki/Runlevel#Linux - Wiki runlevel table
 
 ### Pythonish stuff
 https://docs.python.org/3/howto/sockets.html - socket handling basics
+
+
+### `systemd` stuff
+https://www.linux.com/training-tutorials/understanding-and-using-systemd/
