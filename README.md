@@ -24,6 +24,8 @@ http://zetcode.com/python/socket/
 
 https://pythonprogramming.net/pickle-objects-sockets-tutorial-python-3/
 
+https://stackoverflow.com/questions/39817641/how-to-send-a-json-object-using-tcp-socket-in-python - interesting SO discussion
+
 
 ### `systemd` stuff
 https://www.linux.com/training-tutorials/understanding-and-using-systemd/
