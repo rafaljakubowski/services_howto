@@ -17,6 +17,11 @@ https://en.wikipedia.org/wiki/Runlevel#Linux - Wiki runlevel table
 
 https://medium.com/@benmorel/creating-a-linux-service-with-systemd-611b5c8b91d6 - quite nice tutorial, based on a simple PHP script
 
+### Basic + Pythonis
+
+https://www.python.org/dev/peps/pep-3143/ - important stuff about well behaving deamons
+
+
 ### Pythonish stuff
 https://docs.python.org/3/howto/sockets.html - socket handling basics
 
@@ -29,6 +34,8 @@ https://pythonprogramming.net/pickle-objects-sockets-tutorial-python-3/
 https://stackoverflow.com/questions/39817641/how-to-send-a-json-object-using-tcp-socket-in-python - interesting SO discussion
 
 https://stackoverflow.com/questions/1603109/how-to-make-a-python-script-run-like-a-service-or-daemon-in-linux - and this SO is even better, witha base from here: https://web.archive.org/web/20160320091458/http://www.jejik.com/files/examples/daemon3x.py and here: https://web.archive.org/web/20160305151936/http://www.jejik.com/articles/2007/02/a_simple_unix_linux_daemon_in_python/
+
+https://stackoverflow.com/questions/13106221/how-do-i-set-up-a-daemon-with-python-daemon - a "so-called" 2020 version of Pythonish deamon creation
 
 https://stackoverflow.com/questions/32404/how-do-you-run-a-python-script-as-a-service-in-windows - in case someone needs to make a service working on Windows
 
