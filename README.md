@@ -19,6 +19,8 @@ https://medium.com/@benmorel/creating-a-linux-service-with-systemd-611b5c8b91d6 
 
 https://opensource.com/article/19/4/interprocess-communication-linux-networking - sockets sockets sockets
 
+https://tldp.org/LDP/lpg/node7.html - a comprehensive docs: Linux Interprocess Communications
+
 ### Basic + Pythonis
 
 https://www.python.org/dev/peps/pep-3143/ - important stuff about well behaving deamons
