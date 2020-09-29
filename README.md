@@ -15,6 +15,8 @@ https://github.com/torfsen/python-systemd-tutorial - how to setup basic systemd 
 
 https://en.wikipedia.org/wiki/Runlevel#Linux - Wiki runlevel table
 
+https://medium.com/@benmorel/creating-a-linux-service-with-systemd-611b5c8b91d6 - quite nice tutorial, based on a simple PHP script
+
 ### Pythonish stuff
 https://docs.python.org/3/howto/sockets.html - socket handling basics
 
