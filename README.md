@@ -32,7 +32,9 @@ https://stackoverflow.com/questions/1603109/how-to-make-a-python-script-run-like
 
 https://stackoverflow.com/questions/32404/how-do-you-run-a-python-script-as-a-service-in-windows - in case someone needs to make a service working on Windows
 
-https://python-service.readthedocs.io/en/stable/ - Python `service` packages
+https://python-service.readthedocs.io/en/stable/ - Python `service` package
+
+https://pypi.org/project/python-daemon/ - Python `daemon` library
 
 ### `systemd` stuff
 https://www.linux.com/training-tutorials/understanding-and-using-systemd/
