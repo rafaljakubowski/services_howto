@@ -31,3 +31,6 @@ https://stackoverflow.com/questions/39817641/how-to-send-a-json-object-using-tcp
 
 ### `systemd` stuff
 https://www.linux.com/training-tutorials/understanding-and-using-systemd/
+
+### Some oldish stuff
+https://bash.cyberciti.biz/guide/Service_command - still popular
