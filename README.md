@@ -25,6 +25,7 @@ https://tldp.org/LDP/lpg/node7.html - a comprehensive docs: Linux Interprocess C
 
 https://www.python.org/dev/peps/pep-3143/ - important stuff about well behaving deamons
 
+https://www.linux.com/training-tutorials/end-road-systemds-socket-units/ - socat is good stuff
 
 ### Pythonish stuff
 https://docs.python.org/3/howto/sockets.html - socket handling basics
