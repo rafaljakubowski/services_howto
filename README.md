@@ -17,6 +17,8 @@ https://en.wikipedia.org/wiki/Runlevel#Linux - Wiki runlevel table
 
 https://medium.com/@benmorel/creating-a-linux-service-with-systemd-611b5c8b91d6 - quite nice tutorial, based on a simple PHP script
 
+https://opensource.com/article/19/4/interprocess-communication-linux-networking - sockets sockets sockets
+
 ### Basic + Pythonis
 
 https://www.python.org/dev/peps/pep-3143/ - important stuff about well behaving deamons
