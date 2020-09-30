@@ -53,3 +53,6 @@ https://www.linux.com/training-tutorials/understanding-and-using-systemd/
 
 ### Some oldish stuff
 https://bash.cyberciti.biz/guide/Service_command - still popular
+
+### Useful stuff
+https://www.redhat.com/sysadmin/getting-started-socat - nice article about `socat`
