@@ -56,3 +56,7 @@ https://bash.cyberciti.biz/guide/Service_command - still popular
 
 ### Useful stuff
 https://www.redhat.com/sysadmin/getting-started-socat - nice article about `socat`
+
+
+### Client side
+https://pymotw.com/2/socket/tcp.html - using TCP in client
